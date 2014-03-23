@@ -1,6 +1,6 @@
 package main.java;
 
-public class Runnables {
+public class Runnable {
 
     public static void main(String[] args) throws InterruptedException {
 
